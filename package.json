@@ -1,0 +1,23 @@
+{
+  "name": "odk2json",
+  "version": "0.0.1",
+  "description": "ODK to JSON convertor",
+  "main": "app.js",
+  "author": {
+    "name": "Illya Klymov",
+    "email": "xanf@xanf.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wookieelabs/odk2json.git"
+  },
+  "keywords": [
+    "odk"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "~0.4.1",
+    "mkdirp": "~0.3.5",
+    "uuid": "~1.4.1"
+  }
+}
